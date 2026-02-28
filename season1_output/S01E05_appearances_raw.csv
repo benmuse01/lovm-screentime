@@ -1,0 +1,60 @@
+"partition_id","item_id","actor_name","character_name","time_position_ms","segment_start_ms","segment_end_ms","season","episode","character_name_original","time_position_sec","time_position_min","segment_duration_ms","segment_duration_sec","segment_duration_min"
+2,"/name/nm0855039/General Krieg","David Tennant","General Krieg",21000,7000,151000,1,5,"General Krieg",21,0.35,130000,130,2.16666666666667
+2,"/name/nm1260407/Captain","Felicia Day","Captain",55000,7000,151000,1,5,"Captain",55,0.916666666666667,96000,96,1.6
+4,"/name/nm1146051/Sovereign Uriel","Khary Payton","Sovereign Uriel",220000,218000,419000,1,5,"Sovereign Uriel",220,3.66666666666667,199000,199,3.31666666666667
+4,"/name/nm0855039/General Krieg","David Tennant","General Krieg",222000,218000,419000,1,5,"General Krieg",222,3.7,197000,197,3.28333333333333
+4,"/name/nm0890055/Lady Allura Vysoren","Indira Varma","Lady Allura Vysoren",228000,218000,419000,1,5,"Lady Allura Vysoren",228,3.8,191000,191,3.18333333333333
+4,"/name/nm3715867/Lady Kima of Vord","Stephanie Beatriz","Lady Kima of Vord",228000,218000,419000,1,5,"Lady Kima of Vord",228,3.8,191000,191,3.18333333333333
+4,"/name/nm0355024/Sir Fince","Tony Hale","Sir Fince",245000,218000,419000,1,5,"Sir Fince",245,4.08333333333333,174000,174,2.9
+4,"/name/nm0043552/Percy","Taliesin Jaffe","Percival",263000,218000,419000,1,5,"Percy",263,4.38333333333333,156000,156,2.6
+4,"/name/nm0424534/Pike","Ashley Johnson","Pike",263000,218000,419000,1,5,"Pike",263,4.38333333333333,156000,156,2.6
+4,"/name/nm0726184/Scanlan","Sam Riegel","Scanlan",263000,218000,419000,1,5,"Scanlan",263,4.38333333333333,156000,156,2.6
+4,"/name/nm0992184/Grog","Travis Willingham","Grog",263000,218000,419000,1,5,"Grog",263,4.38333333333333,156000,156,2.6
+4,"/name/nm1154161/Vex'ahlia","Laura Bailey","Vex'ahlia",263000,218000,419000,1,5,"Vex'ahlia",263,4.38333333333333,156000,156,2.6
+4,"/name/nm1240448/Vax'ildan","Liam O'Brien","Vax'ildan",263000,218000,419000,1,5,"Vax'ildan",263,4.38333333333333,156000,156,2.6
+4,"/name/nm4065482/Keyleth","Marisha Ray","Keyleth",263000,218000,419000,1,5,"Keyleth",263,4.38333333333333,156000,156,2.6
+4,"/name/nm2233310/Palace Guard","Matthew Mercer","Palace Guard",339000,218000,419000,1,5,"Palace Guard",339,5.65,80000,80,1.33333333333333
+4,"/name/nm2233310/Trinket","Matthew Mercer","Trinket",351000,218000,419000,1,5,"Trinket",351,5.85,68000,68,1.13333333333333
+5,"/name/nm0424534/Pike","Ashley Johnson","Pike",423000,419000,567000,1,5,"Pike",423,7.05,144000,144,2.4
+5,"/name/nm1240448/Vax'ildan","Liam O'Brien","Vax'ildan",423000,419000,567000,1,5,"Vax'ildan",423,7.05,144000,144,2.4
+5,"/name/nm0539503/Gilmore","Sunil Malhotra","Gilmore",430000,419000,567000,1,5,"Gilmore",430,7.16666666666667,137000,137,2.28333333333333
+6,"/name/nm0726184/Scanlan","Sam Riegel","Scanlan",567000,567000,757000,1,5,"Scanlan",567,9.45,190000,190,3.16666666666667
+6,"/name/nm0992184/Grog","Travis Willingham","Grog",567000,567000,757000,1,5,"Grog",567,9.45,190000,190,3.16666666666667
+6,"/name/nm0355024/Sir Fince","Tony Hale","Sir Fince",612000,567000,757000,1,5,"Sir Fince",612,10.2,145000,145,2.41666666666667
+6,"/name/nm4065482/Keyleth","Marisha Ray","Keyleth",702000,567000,757000,1,5,"Keyleth",702,11.7,55000,55,0.916666666666667
+6,"/name/nm0043552/Percy","Taliesin Jaffe","Percival",714000,567000,757000,1,5,"Percy",714,11.9,43000,43,0.716666666666667
+6,"/name/nm0424534/Pike","Ashley Johnson","Pike",714000,567000,757000,1,5,"Pike",714,11.9,43000,43,0.716666666666667
+6,"/name/nm1154161/Vex'ahlia","Laura Bailey","Vex'ahlia",714000,567000,757000,1,5,"Vex'ahlia",714,11.9,43000,43,0.716666666666667
+6,"/name/nm1240448/Vax'ildan","Liam O'Brien","Vax'ildan",721000,567000,757000,1,5,"Vax'ildan",721,12.0166666666667,36000,36,0.6
+7,"/name/nm0355024/Sir Fince","Tony Hale","Sir Fince",757000,757000,936000,1,5,"Sir Fince",757,12.6166666666667,179000,179,2.98333333333333
+7,"/name/nm0726184/Scanlan","Sam Riegel","Scanlan",763000,757000,936000,1,5,"Scanlan",763,12.7166666666667,173000,173,2.88333333333333
+7,"/name/nm0043552/Percy","Taliesin Jaffe","Percival",765000,757000,936000,1,5,"Percy",765,12.75,171000,171,2.85
+7,"/name/nm0424534/Pike","Ashley Johnson","Pike",765000,757000,936000,1,5,"Pike",765,12.75,171000,171,2.85
+7,"/name/nm0992184/Grog","Travis Willingham","Grog",765000,757000,936000,1,5,"Grog",765,12.75,171000,171,2.85
+7,"/name/nm1154161/Vex'ahlia","Laura Bailey","Vex'ahlia",765000,757000,936000,1,5,"Vex'ahlia",765,12.75,171000,171,2.85
+7,"/name/nm1240448/Vax'ildan","Liam O'Brien","Vax'ildan",765000,757000,936000,1,5,"Vax'ildan",765,12.75,171000,171,2.85
+7,"/name/nm4065482/Keyleth","Marisha Ray","Keyleth",765000,757000,936000,1,5,"Keyleth",765,12.75,171000,171,2.85
+7,"/name/nm0855039/General Krieg","David Tennant","General Krieg",794000,757000,936000,1,5,"General Krieg",794,13.2333333333333,142000,142,2.36666666666667
+8,"/name/nm0992184/Grog","Travis Willingham","Grog",936000,936000,1401000,1,5,"Grog",936,15.6,465000,465,7.75
+8,"/name/nm0043552/Percy","Taliesin Jaffe","Percival",940000,936000,1401000,1,5,"Percy",940,15.6666666666667,461000,461,7.68333333333333
+8,"/name/nm0424534/Pike","Ashley Johnson","Pike",940000,936000,1401000,1,5,"Pike",940,15.6666666666667,461000,461,7.68333333333333
+8,"/name/nm1154161/Vex'ahlia","Laura Bailey","Vex'ahlia",940000,936000,1401000,1,5,"Vex'ahlia",940,15.6666666666667,461000,461,7.68333333333333
+8,"/name/nm1240448/Vax'ildan","Liam O'Brien","Vax'ildan",940000,936000,1401000,1,5,"Vax'ildan",940,15.6666666666667,461000,461,7.68333333333333
+8,"/name/nm4065482/Keyleth","Marisha Ray","Keyleth",940000,936000,1401000,1,5,"Keyleth",940,15.6666666666667,461000,461,7.68333333333333
+8,"/name/nm0726184/Scanlan","Sam Riegel","Scanlan",941000,936000,1401000,1,5,"Scanlan",941,15.6833333333333,460000,460,7.66666666666667
+8,"/name/nm0855039/General Krieg","David Tennant","General Krieg",1012000,936000,1401000,1,5,"General Krieg",1012,16.8666666666667,389000,389,6.48333333333333
+9,"/name/nm1146051/Sovereign Uriel","Khary Payton","Sovereign Uriel",1402000,1401000,1489000,1,5,"Sovereign Uriel",1402,23.3666666666667,87000,87,1.45
+9,"/name/nm0043552/Percy","Taliesin Jaffe","Percival",1404000,1401000,1489000,1,5,"Percy",1404,23.4,85000,85,1.41666666666667
+9,"/name/nm0424534/Pike","Ashley Johnson","Pike",1404000,1401000,1489000,1,5,"Pike",1404,23.4,85000,85,1.41666666666667
+9,"/name/nm0726184/Scanlan","Sam Riegel","Scanlan",1404000,1401000,1489000,1,5,"Scanlan",1404,23.4,85000,85,1.41666666666667
+9,"/name/nm0992184/Grog","Travis Willingham","Grog",1404000,1401000,1489000,1,5,"Grog",1404,23.4,85000,85,1.41666666666667
+9,"/name/nm1154161/Vex'ahlia","Laura Bailey","Vex'ahlia",1404000,1401000,1489000,1,5,"Vex'ahlia",1404,23.4,85000,85,1.41666666666667
+9,"/name/nm1240448/Vax'ildan","Liam O'Brien","Vax'ildan",1404000,1401000,1489000,1,5,"Vax'ildan",1404,23.4,85000,85,1.41666666666667
+9,"/name/nm4065482/Keyleth","Marisha Ray","Keyleth",1404000,1401000,1489000,1,5,"Keyleth",1404,23.4,85000,85,1.41666666666667
+9,"/name/nm0890055/Lady Allura Vysoren","Indira Varma","Lady Allura Vysoren",1407000,1401000,1489000,1,5,"Lady Allura Vysoren",1407,23.45,82000,82,1.36666666666667
+9,"/name/nm3715867/Lady Kima of Vord","Stephanie Beatriz","Lady Kima of Vord",1407000,1401000,1489000,1,5,"Lady Kima of Vord",1407,23.45,82000,82,1.36666666666667
+10,"/name/nm5489754/Desmond","Max Mittelman","Desmond",1491000,1489000,1576000,1,5,"Desmond",1491,24.85,85000,85,1.41666666666667
+10,"/name/nm0217221/Deliliah Briarwood","Grey DeLisle","Deliliah Briarwood",1501000,1489000,1576000,1,5,"Deliliah Briarwood",1501,25.0166666666667,75000,75,1.25
+10,"/name/nm2233310/Sylas Briarwood","Matthew Mercer","Sylas Briarwood",1504000,1489000,1576000,1,5,"Sylas Briarwood",1504,25.0666666666667,72000,72,1.2
+10,"/name/nm5489754/Bandit 1","Max Mittelman","Bandit 1",1518000,1489000,1576000,1,5,"Bandit 1",1518,25.3,58000,58,0.966666666666667
+10,"/name/nm1260407/Bandit 2","Felicia Day","Bandit 2",1523000,1489000,1576000,1,5,"Bandit 2",1523,25.3833333333333,53000,53,0.883333333333333

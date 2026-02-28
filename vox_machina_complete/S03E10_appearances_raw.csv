@@ -1,0 +1,36 @@
+"partition_id","item_id","actor_name","character_name","time_position_ms","segment_start_ms","segment_end_ms","season","episode","character_name_original","time_position_sec","time_position_min","segment_duration_ms","segment_duration_sec","segment_duration_min"
+1,"/name/nm0838588/Raishan","Cree Summer","Raishan",6000,0,70000,3,10,"Raishan",6,0.1,64000,64,1.06666666666667
+1,"/name/nm1154161/Vex'ahlia","Laura Bailey","Vex'ahlia",8000,0,70000,3,10,"Vex'ahlia",8,0.133333333333333,62000,62,1.03333333333333
+1,"/name/nm0424534/Pike","Ashley Johnson","Pike",13000,0,70000,3,10,"Pike",13,0.216666666666667,57000,57,0.95
+1,"/name/nm1240448/Vax'ildan","Liam O'Brien","Vax'ildan",13000,0,70000,3,10,"Vax'ildan",13,0.216666666666667,57000,57,0.95
+1,"/name/nm4065482/Keyleth","Marisha Ray","Keyleth",13000,0,70000,3,10,"Keyleth",13,0.216666666666667,57000,57,0.95
+3,"/name/nm1240448/Vax'ildan","Liam O'Brien","Vax'ildan",155000,149000,362000,3,10,"Vax'ildan",155,2.58333333333333,207000,207,3.45
+3,"/name/nm0424534/Pike","Ashley Johnson","Pike",158000,149000,362000,3,10,"Pike",158,2.63333333333333,204000,204,3.4
+3,"/name/nm1154161/Vex'ahlia","Laura Bailey","Vex'ahlia",171000,149000,362000,3,10,"Vex'ahlia",171,2.85,191000,191,3.18333333333333
+3,"/name/nm0726184/Scanlan","Sam Riegel","Scanlan",223000,149000,362000,3,10,"Scanlan",223,3.71666666666667,139000,139,2.31666666666667
+3,"/name/nm2233310/Dr. Dranzel","Matthew Mercer","Dr. Dranzel",275000,149000,362000,3,10,"Dr. Dranzel",275,4.58333333333333,87000,87,1.45
+3,"/name/nm0890055/Allura","Indira Varma","Lady Allura Vysoren",281000,149000,362000,3,10,"Allura",281,4.68333333333333,81000,81,1.35
+3,"/name/nm4957233/Kaylie","Aisling Franciosi","Kaylie",307000,149000,362000,3,10,"Kaylie",307,5.11666666666667,55000,55,0.916666666666667
+4,"/name/nm0851317/Korrin","Fred Tatasciore","Korrin",371000,362000,618000,3,10,"Korrin",371,6.18333333333333,247000,247,4.11666666666667
+4,"/name/nm4065482/Keyleth","Marisha Ray","Keyleth",381000,362000,618000,3,10,"Keyleth",381,6.35,237000,237,3.95
+4,"/name/nm1154161/Vex'ahlia","Laura Bailey","Vex'ahlia",472000,362000,618000,3,10,"Vex'ahlia",472,7.86666666666667,146000,146,2.43333333333333
+4,"/name/nm1240448/Vax'ildan","Liam O'Brien","Vax'ildan",472000,362000,618000,3,10,"Vax'ildan",472,7.86666666666667,146000,146,2.43333333333333
+4,"/name/nm0687947/Uvenda","Tamara Podemski","Uvenda",488000,362000,618000,3,10,"Uvenda",488,8.13333333333333,130000,130,2.16666666666667
+4,"/name/nm0933281/Pa'tice","Debra Wilson","Pa'tice",496000,362000,618000,3,10,"Pa'tice",496,8.26666666666667,122000,122,2.03333333333333
+5,"/name/nm1154161/Vex'ahlia","Laura Bailey","Vex'ahlia",620000,618000,948000,3,10,"Vex'ahlia",620,10.3333333333333,328000,328,5.46666666666667
+5,"/name/nm2233310/Katari","Matthew Mercer","Katari",634000,618000,948000,3,10,"Katari",634,10.5666666666667,314000,314,5.23333333333333
+5,"/name/nm1240448/Vax'ildan","Liam O'Brien","Vax'ildan",678000,618000,948000,3,10,"Vax'ildan",678,11.3,270000,270,4.5
+5,"/name/nm4065482/Keyleth","Marisha Ray","Keyleth",732000,618000,948000,3,10,"Keyleth",732,12.2,216000,216,3.6
+5,"/name/nm0687947/Uvenda","Tamara Podemski","Uvenda",804000,618000,948000,3,10,"Uvenda",804,13.4,144000,144,2.4
+5,"/name/nm0851317/Korrin","Fred Tatasciore","Korrin",813000,618000,948000,3,10,"Korrin",813,13.55,135000,135,2.25
+5,"/name/nm0933281/Pa'tice","Debra Wilson","Pa'tice",829000,618000,948000,3,10,"Pa'tice",829,13.8166666666667,119000,119,1.98333333333333
+6,"/name/nm1154161/Vex'ahlia","Laura Bailey","Vex'ahlia",952000,948000,1178000,3,10,"Vex'ahlia",952,15.8666666666667,226000,226,3.76666666666667
+6,"/name/nm1240448/Vax'ildan","Liam O'Brien","Vax'ildan",952000,948000,1178000,3,10,"Vax'ildan",952,15.8666666666667,226000,226,3.76666666666667
+6,"/name/nm0933281/Pa'tice","Debra Wilson","Pa'tice",978000,948000,1178000,3,10,"Pa'tice",978,16.3,200000,200,3.33333333333333
+6,"/name/nm4065482/Keyleth","Marisha Ray","Keyleth",978000,948000,1178000,3,10,"Keyleth",978,16.3,200000,200,3.33333333333333
+6,"/name/nm0851317/Korrin","Fred Tatasciore","Korrin",990000,948000,1178000,3,10,"Korrin",990,16.5,188000,188,3.13333333333333
+7,"/name/nm1154161/Vex'ahlia","Laura Bailey","Vex'ahlia",1180000,1178000,1434000,3,10,"Vex'ahlia",1180,19.6666666666667,254000,254,4.23333333333333
+7,"/name/nm1240448/Vax'ildan","Liam O'Brien","Vax'ildan",1212000,1178000,1434000,3,10,"Vax'ildan",1212,20.2,222000,222,3.7
+7,"/name/nm4065482/Keyleth","Marisha Ray","Keyleth",1309000,1178000,1434000,3,10,"Keyleth",1309,21.8166666666667,125000,125,2.08333333333333
+7,"/name/nm0933281/Pa'tice","Debra Wilson","Pa'tice",1315000,1178000,1434000,3,10,"Pa'tice",1315,21.9166666666667,119000,119,1.98333333333333
+7,"/name/nm0851317/Korrin","Fred Tatasciore","Korrin",1326000,1178000,1434000,3,10,"Korrin",1326,22.1,108000,108,1.8

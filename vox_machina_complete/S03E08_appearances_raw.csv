@@ -1,0 +1,61 @@
+"partition_id","item_id","actor_name","character_name","time_position_ms","segment_start_ms","segment_end_ms","season","episode","character_name_original","time_position_sec","time_position_min","segment_duration_ms","segment_duration_sec","segment_duration_min"
+1,"/name/nm0992184/Grog","Travis Willingham","Grog",8000,0,125000,3,8,"Grog",8,0.133333333333333,117000,117,1.95
+1,"/name/nm0726184/Scanlan","Sam Riegel","Scanlan",12000,0,125000,3,8,"Scanlan",12,0.2,113000,113,1.88333333333333
+1,"/name/nm1240448/Vax'ildan","Liam O'Brien","Vax'ildan",12000,0,125000,3,8,"Vax'ildan",12,0.2,113000,113,1.88333333333333
+1,"/name/nm4065482/Keyleth","Marisha Ray","Keyleth",12000,0,125000,3,8,"Keyleth",12,0.2,113000,113,1.88333333333333
+1,"/name/nm0424534/Pike","Ashley Johnson","Pike",13000,0,125000,3,8,"Pike",13,0.216666666666667,112000,112,1.86666666666667
+1,"/name/nm1154161/Vex'ahlia","Laura Bailey","Vex'ahlia",15000,0,125000,3,8,"Vex'ahlia",15,0.25,110000,110,1.83333333333333
+1,"/name/nm0043552/Percy","Taliesin Jaffe","Percival",55000,0,125000,3,8,"Percy",55,0.916666666666667,70000,70,1.16666666666667
+3,"/name/nm0992184/Grog","Travis Willingham","Grog",222000,204000,469000,3,8,"Grog",222,3.7,247000,247,4.11666666666667
+3,"/name/nm1154161/Vex'ahlia","Laura Bailey","Vex'ahlia",222000,204000,469000,3,8,"Vex'ahlia",222,3.7,247000,247,4.11666666666667
+3,"/name/nm1240448/Vax'ildan","Liam O'Brien","Vax'ildan",222000,204000,469000,3,8,"Vax'ildan",222,3.7,247000,247,4.11666666666667
+3,"/name/nm4065482/Keyleth","Marisha Ray","Keyleth",222000,204000,469000,3,8,"Keyleth",222,3.7,247000,247,4.11666666666667
+3,"/name/nm0424534/Pike","Ashley Johnson","Pike",226000,204000,469000,3,8,"Pike",226,3.76666666666667,243000,243,4.05
+3,"/name/nm0890055/Allura","Indira Varma","Lady Allura Vysoren",229000,204000,469000,3,8,"Allura",229,3.81666666666667,240000,240,4
+3,"/name/nm0043552/Percy","Taliesin Jaffe","Percival",230000,204000,469000,3,8,"Percy",230,3.83333333333333,239000,239,3.98333333333333
+3,"/name/nm0539503/Gilmore","Sunil Malhotra","Gilmore",240000,204000,469000,3,8,"Gilmore",240,4,229000,229,3.81666666666667
+3,"/name/nm2962727/Cassandra","Esmé Creed-Miles","Cassandra de Rolo",240000,204000,469000,3,8,"Cassandra",240,4,229000,229,3.81666666666667
+3,"/name/nm0868659/Keeper Yennen","Gina Torres","Keeper Yennen",243000,204000,469000,3,8,"Keeper Yennen",243,4.05,226000,226,3.76666666666667
+3,"/name/nm2233310/Trinket","Matthew Mercer","Trinket",246000,204000,469000,3,8,"Trinket",246,4.1,223000,223,3.71666666666667
+3,"/name/nm3715867/Kima","Stephanie Beatriz","Lady Kima of Vord",286000,204000,469000,3,8,"Kima",286,4.76666666666667,183000,183,3.05
+3,"/name/nm0726184/Scanlan","Sam Riegel","Scanlan",321000,204000,469000,3,8,"Scanlan",321,5.35,148000,148,2.46666666666667
+4,"/name/nm0726184/Scanlan","Sam Riegel","Scanlan",478000,469000,739000,3,8,"Scanlan",478,7.96666666666667,261000,261,4.35
+4,"/name/nm0424534/Pike","Ashley Johnson","Pike",481000,469000,739000,3,8,"Pike",481,8.01666666666667,258000,258,4.3
+4,"/name/nm1240448/Vax'ildan","Liam O'Brien","Vax'ildan",512000,469000,739000,3,8,"Vax'ildan",512,8.53333333333333,227000,227,3.78333333333333
+4,"/name/nm4065482/Keyleth","Marisha Ray","Keyleth",512000,469000,739000,3,8,"Keyleth",512,8.53333333333333,227000,227,3.78333333333333
+4,"/name/nm0838588/Raishan","Cree Summer","Raishan",538000,469000,739000,3,8,"Raishan",538,8.96666666666667,201000,201,3.35
+4,"/name/nm1154161/Vex'ahlia","Laura Bailey","Vex'ahlia",581000,469000,739000,3,8,"Vex'ahlia",581,9.68333333333333,158000,158,2.63333333333333
+4,"/name/nm0890055/Allura","Indira Varma","Lady Allura Vysoren",661000,469000,739000,3,8,"Allura",661,11.0166666666667,78000,78,1.3
+4,"/name/nm2962727/Cassandra","Esmé Creed-Miles","Cassandra de Rolo",661000,469000,739000,3,8,"Cassandra",661,11.0166666666667,78000,78,1.3
+4,"/name/nm3715867/Kima","Stephanie Beatriz","Lady Kima of Vord",661000,469000,739000,3,8,"Kima",661,11.0166666666667,78000,78,1.3
+4,"/name/nm0868659/Keeper Yennen","Gina Torres","Keeper Yennen",670000,469000,739000,3,8,"Keeper Yennen",670,11.1666666666667,69000,69,1.15
+4,"/name/nm0992184/Grog","Travis Willingham","Grog",670000,469000,739000,3,8,"Grog",670,11.1666666666667,69000,69,1.15
+5,"/name/nm2837894/Cerkonos","Robbie Daymond","Cerkonos",745000,739000,1103000,3,8,"Cerkonos",745,12.4166666666667,358000,358,5.96666666666667
+5,"/name/nm4065482/Keyleth","Marisha Ray","Keyleth",748000,739000,1103000,3,8,"Keyleth",748,12.4666666666667,355000,355,5.91666666666667
+5,"/name/nm0992184/Grog","Travis Willingham","Grog",760000,739000,1103000,3,8,"Grog",760,12.6666666666667,343000,343,5.71666666666667
+5,"/name/nm2941559/Earthbreaker Groon","Ike Amadi","Earthbreaker Groon",760000,739000,1103000,3,8,"Earthbreaker Groon",760,12.6666666666667,343000,343,5.71666666666667
+5,"/name/nm2962727/Cassandra","Esmé Creed-Miles","Cassandra de Rolo",768000,739000,1103000,3,8,"Cassandra",768,12.8,335000,335,5.58333333333333
+5,"/name/nm0295115/Kashaw","Will Friedle","Kashaw",777000,739000,1103000,3,8,"Kashaw",777,12.95,326000,326,5.43333333333333
+5,"/name/nm0569479/Zahra","Mary Elizabeth McGlynn","Zahra",782000,739000,1103000,3,8,"Zahra",782,13.0333333333333,321000,321,5.35
+5,"/name/nm1240448/Vax'ildan","Liam O'Brien","Vax'ildan",796000,739000,1103000,3,8,"Vax'ildan",796,13.2666666666667,307000,307,5.11666666666667
+5,"/name/nm1684869/Syldor","Troy Baker","Syldor",839000,739000,1103000,3,8,"Syldor",839,13.9833333333333,264000,264,4.4
+5,"/name/nm1154161/Vex'ahlia","Laura Bailey","Vex'ahlia",843000,739000,1103000,3,8,"Vex'ahlia",843,14.05,260000,260,4.33333333333333
+5,"/name/nm0726184/Scanlan","Sam Riegel","Scanlan",1023000,739000,1103000,3,8,"Scanlan",1023,17.05,80000,80,1.33333333333333
+5,"/name/nm0424534/Pike","Ashley Johnson","Pike",1028000,739000,1103000,3,8,"Pike",1028,17.1333333333333,75000,75,1.25
+5,"/name/nm0890055/Allura","Indira Varma","Lady Allura Vysoren",1072000,739000,1103000,3,8,"Allura",1072,17.8666666666667,31000,31,0.516666666666667
+5,"/name/nm2233310/Trinket","Matthew Mercer","Trinket",1072000,739000,1103000,3,8,"Trinket",1072,17.8666666666667,31000,31,0.516666666666667
+5,"/name/nm3715867/Kima","Stephanie Beatriz","Lady Kima of Vord",1072000,739000,1103000,3,8,"Kima",1072,17.8666666666667,31000,31,0.516666666666667
+6,"/name/nm1154161/Vex'ahlia","Laura Bailey","Vex'ahlia",1105000,1103000,1429000,3,8,"Vex'ahlia",1105,18.4166666666667,324000,324,5.4
+6,"/name/nm1684869/Syldor","Troy Baker","Syldor",1105000,1103000,1429000,3,8,"Syldor",1105,18.4166666666667,324000,324,5.4
+6,"/name/nm1240448/Vax'ildan","Liam O'Brien","Vax'ildan",1116000,1103000,1429000,3,8,"Vax'ildan",1116,18.6,313000,313,5.21666666666667
+6,"/name/nm2837894/Cerkonos","Robbie Daymond","Cerkonos",1116000,1103000,1429000,3,8,"Cerkonos",1116,18.6,313000,313,5.21666666666667
+6,"/name/nm4065482/Keyleth","Marisha Ray","Keyleth",1116000,1103000,1429000,3,8,"Keyleth",1116,18.6,313000,313,5.21666666666667
+6,"/name/nm0539503/Gilmore","Sunil Malhotra","Gilmore",1122000,1103000,1429000,3,8,"Gilmore",1122,18.7,307000,307,5.11666666666667
+6,"/name/nm2962727/Cassandra","Esmé Creed-Miles","Cassandra de Rolo",1122000,1103000,1429000,3,8,"Cassandra",1122,18.7,307000,307,5.11666666666667
+6,"/name/nm0424534/Pike","Ashley Johnson","Pike",1140000,1103000,1429000,3,8,"Pike",1140,19,289000,289,4.81666666666667
+6,"/name/nm0726184/Scanlan","Sam Riegel","Scanlan",1140000,1103000,1429000,3,8,"Scanlan",1140,19,289000,289,4.81666666666667
+6,"/name/nm0868659/Keeper Yennen","Gina Torres","Keeper Yennen",1140000,1103000,1429000,3,8,"Keeper Yennen",1140,19,289000,289,4.81666666666667
+6,"/name/nm0890055/Allura","Indira Varma","Lady Allura Vysoren",1140000,1103000,1429000,3,8,"Allura",1140,19,289000,289,4.81666666666667
+6,"/name/nm0992184/Grog","Travis Willingham","Grog",1140000,1103000,1429000,3,8,"Grog",1140,19,289000,289,4.81666666666667
+6,"/name/nm2941559/Earthbreaker Groon","Ike Amadi","Earthbreaker Groon",1140000,1103000,1429000,3,8,"Earthbreaker Groon",1140,19,289000,289,4.81666666666667
+6,"/name/nm3715867/Kima","Stephanie Beatriz","Lady Kima of Vord",1140000,1103000,1429000,3,8,"Kima",1140,19,289000,289,4.81666666666667

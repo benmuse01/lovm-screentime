@@ -1,0 +1,89 @@
+"partition_id","item_id","actor_name","character_name","time_position_ms","segment_start_ms","segment_end_ms","season","episode","character_name_original","time_position_sec","time_position_min","segment_duration_ms","segment_duration_sec","segment_duration_min"
+2,"/name/nm0043552/Percival de Rolo","Taliesin Jaffe","Percival",13000,4000,40000,1,12,"Percival de Rolo",13,0.216666666666667,27000,27,0.45
+2,"/name/nm0726184/Scanlan Shorthalt","Sam Riegel","Scanlan",13000,4000,40000,1,12,"Scanlan Shorthalt",13,0.216666666666667,27000,27,0.45
+2,"/name/nm0992184/Grog Strongjaw","Travis Willingham","Grog",13000,4000,40000,1,12,"Grog Strongjaw",13,0.216666666666667,27000,27,0.45
+2,"/name/nm1240448/Vax'ildan Vessar","Liam O'Brien","Vax'ildan",13000,4000,40000,1,12,"Vax'ildan Vessar",13,0.216666666666667,27000,27,0.45
+2,"/name/nm2962727/Cassandra","Esmé Creed-Miles","Cassandra de Rolo",13000,4000,40000,1,12,"Cassandra",13,0.216666666666667,27000,27,0.45
+2,"/name/nm4065482/Keyleth","Marisha Ray","Keyleth",14000,4000,40000,1,12,"Keyleth",14,0.233333333333333,26000,26,0.433333333333333
+2,"/name/nm1154161/Vex'ahlia Vessar","Laura Bailey","Vex'ahlia",15000,4000,40000,1,12,"Vex'ahlia Vessar",15,0.25,25000,25,0.416666666666667
+3,"/name/nm0217221/Deliliah Briarwood","Grey DeLisle","Deliliah Briarwood",40000,40000,146000,1,12,"Deliliah Briarwood",40,0.666666666666667,106000,106,1.76666666666667
+3,"/name/nm0043552/Percival de Rolo","Taliesin Jaffe","Percival",46000,40000,146000,1,12,"Percival de Rolo",46,0.766666666666667,100000,100,1.66666666666667
+3,"/name/nm1154161/Vex'ahlia Vessar","Laura Bailey","Vex'ahlia",52000,40000,146000,1,12,"Vex'ahlia Vessar",52,0.866666666666667,94000,94,1.56666666666667
+3,"/name/nm1240448/Vax'ildan Vessar","Liam O'Brien","Vax'ildan",52000,40000,146000,1,12,"Vax'ildan Vessar",52,0.866666666666667,94000,94,1.56666666666667
+3,"/name/nm4065482/Keyleth","Marisha Ray","Keyleth",52000,40000,146000,1,12,"Keyleth",52,0.866666666666667,94000,94,1.56666666666667
+3,"/name/nm0726184/Scanlan Shorthalt","Sam Riegel","Scanlan",56000,40000,146000,1,12,"Scanlan Shorthalt",56,0.933333333333333,90000,90,1.5
+3,"/name/nm0992184/Grog Strongjaw","Travis Willingham","Grog",59000,40000,146000,1,12,"Grog Strongjaw",59,0.983333333333333,87000,87,1.45
+3,"/name/nm2962727/Cassandra","Esmé Creed-Miles","Cassandra de Rolo",59000,40000,146000,1,12,"Cassandra",59,0.983333333333333,87000,87,1.45
+5,"/name/nm0726184/Scanlan Shorthalt","Sam Riegel","Scanlan",153000,153000,406000,1,12,"Scanlan Shorthalt",153,2.55,253000,253,4.21666666666667
+5,"/name/nm0992184/Grog Strongjaw","Travis Willingham","Grog",153000,153000,406000,1,12,"Grog Strongjaw",153,2.55,253000,253,4.21666666666667
+5,"/name/nm1154161/Vex'ahlia Vessar","Laura Bailey","Vex'ahlia",153000,153000,406000,1,12,"Vex'ahlia Vessar",153,2.55,253000,253,4.21666666666667
+5,"/name/nm1240448/Vax'ildan Vessar","Liam O'Brien","Vax'ildan",153000,153000,406000,1,12,"Vax'ildan Vessar",153,2.55,253000,253,4.21666666666667
+5,"/name/nm4065482/Keyleth","Marisha Ray","Keyleth",153000,153000,406000,1,12,"Keyleth",153,2.55,253000,253,4.21666666666667
+5,"/name/nm0043552/Percival de Rolo","Taliesin Jaffe","Percival",191000,153000,406000,1,12,"Percival de Rolo",191,3.18333333333333,215000,215,3.58333333333333
+5,"/name/nm0217221/Deliliah Briarwood","Grey DeLisle","Deliliah Briarwood",191000,153000,406000,1,12,"Deliliah Briarwood",191,3.18333333333333,215000,215,3.58333333333333
+5,"/name/nm2962727/Cassandra","Esmé Creed-Miles","Cassandra de Rolo",191000,153000,406000,1,12,"Cassandra",191,3.18333333333333,215000,215,3.58333333333333
+5,"/name/nm2233310/Orthax","Matthew Mercer","Orthax",268000,153000,406000,1,12,"Orthax",268,4.46666666666667,138000,138,2.3
+6,"/name/nm0043552/Percival de Rolo","Taliesin Jaffe","Percival",410000,406000,516000,1,12,"Percival de Rolo",410,6.83333333333333,106000,106,1.76666666666667
+6,"/name/nm0740535/Professor Anders","Stephen Root","Professor Anders",423000,406000,516000,1,12,"Professor Anders",423,7.05,93000,93,1.55
+6,"/name/nm2962727/Cassandra","Esmé Creed-Miles","Cassandra de Rolo",431000,406000,516000,1,12,"Cassandra",431,7.18333333333333,85000,85,1.41666666666667
+6,"/name/nm2233310/Sylas Briarwood","Matthew Mercer","Sylas Briarwood",445000,406000,516000,1,12,"Sylas Briarwood",445,7.41666666666667,71000,71,1.18333333333333
+6,"/name/nm1154161/Vex'ahlia Vessar","Laura Bailey","Vex'ahlia",457000,406000,516000,1,12,"Vex'ahlia Vessar",457,7.61666666666667,59000,59,0.983333333333333
+6,"/name/nm0992184/Grog Strongjaw","Travis Willingham","Grog",458000,406000,516000,1,12,"Grog Strongjaw",458,7.63333333333333,58000,58,0.966666666666667
+6,"/name/nm1240448/Vax'ildan Vessar","Liam O'Brien","Vax'ildan",461000,406000,516000,1,12,"Vax'ildan Vessar",461,7.68333333333333,55000,55,0.916666666666667
+6,"/name/nm4065482/Keyleth","Marisha Ray","Keyleth",461000,406000,516000,1,12,"Keyleth",461,7.68333333333333,55000,55,0.916666666666667
+6,"/name/nm0726184/Scanlan Shorthalt","Sam Riegel","Scanlan",470000,406000,516000,1,12,"Scanlan Shorthalt",470,7.83333333333333,46000,46,0.766666666666667
+6,"/name/nm0217221/Lady De Rolo","Grey DeLisle","Cassandra de Rolo",484000,406000,516000,1,12,"Lady De Rolo",484,8.06666666666667,32000,32,0.533333333333333
+6,"/name/nm0043552/Lord De Rolo","Taliesin Jaffe","Percival",487000,406000,516000,1,12,"Lord De Rolo",487,8.11666666666667,29000,29,0.483333333333333
+6,"/name/nm0210875/Stonefell","Darin De Paul","Stonefell",496000,406000,516000,1,12,"Stonefell",496,8.26666666666667,20000,20,0.333333333333333
+7,"/name/nm0043552/Lord De Rolo","Taliesin Jaffe","Percival",517000,516000,644000,1,12,"Lord De Rolo",517,8.61666666666667,127000,127,2.11666666666667
+7,"/name/nm2233310/Orthax","Matthew Mercer","Orthax",518000,516000,644000,1,12,"Orthax",518,8.63333333333333,126000,126,2.1
+7,"/name/nm0043552/Percival de Rolo","Taliesin Jaffe","Percival",523000,516000,644000,1,12,"Percival de Rolo",523,8.71666666666667,121000,121,2.01666666666667
+7,"/name/nm0217221/Lady De Rolo","Grey DeLisle","Cassandra de Rolo",533000,516000,644000,1,12,"Lady De Rolo",533,8.88333333333333,111000,111,1.85
+7,"/name/nm0992184/Grog Strongjaw","Travis Willingham","Grog",547000,516000,644000,1,12,"Grog Strongjaw",547,9.11666666666667,97000,97,1.61666666666667
+7,"/name/nm1154161/Vex'ahlia Vessar","Laura Bailey","Vex'ahlia",555000,516000,644000,1,12,"Vex'ahlia Vessar",555,9.25,89000,89,1.48333333333333
+7,"/name/nm4065482/Keyleth","Marisha Ray","Keyleth",555000,516000,644000,1,12,"Keyleth",555,9.25,89000,89,1.48333333333333
+7,"/name/nm0726184/Scanlan Shorthalt","Sam Riegel","Scanlan",559000,516000,644000,1,12,"Scanlan Shorthalt",559,9.31666666666667,85000,85,1.41666666666667
+7,"/name/nm0210875/Stonefell","Darin De Paul","Stonefell",565000,516000,644000,1,12,"Stonefell",565,9.41666666666667,79000,79,1.31666666666667
+7,"/name/nm1240448/Vax'ildan Vessar","Liam O'Brien","Vax'ildan",576000,516000,644000,1,12,"Vax'ildan Vessar",576,9.6,68000,68,1.13333333333333
+8,"/name/nm0217221/Deliliah Briarwood","Grey DeLisle","Deliliah Briarwood",644000,644000,892000,1,12,"Deliliah Briarwood",644,10.7333333333333,248000,248,4.13333333333333
+8,"/name/nm0043552/Percival de Rolo","Taliesin Jaffe","Percival",648000,644000,892000,1,12,"Percival de Rolo",648,10.8,244000,244,4.06666666666667
+8,"/name/nm1154161/Vex'ahlia Vessar","Laura Bailey","Vex'ahlia",648000,644000,892000,1,12,"Vex'ahlia Vessar",648,10.8,244000,244,4.06666666666667
+8,"/name/nm2233310/Orthax","Matthew Mercer","Orthax",648000,644000,892000,1,12,"Orthax",648,10.8,244000,244,4.06666666666667
+8,"/name/nm2962727/Cassandra","Esmé Creed-Miles","Cassandra de Rolo",648000,644000,892000,1,12,"Cassandra",648,10.8,244000,244,4.06666666666667
+8,"/name/nm4065482/Keyleth","Marisha Ray","Keyleth",648000,644000,892000,1,12,"Keyleth",648,10.8,244000,244,4.06666666666667
+8,"/name/nm0726184/Scanlan Shorthalt","Sam Riegel","Scanlan",651000,644000,892000,1,12,"Scanlan Shorthalt",651,10.85,241000,241,4.01666666666667
+8,"/name/nm0992184/Grog Strongjaw","Travis Willingham","Grog",651000,644000,892000,1,12,"Grog Strongjaw",651,10.85,241000,241,4.01666666666667
+8,"/name/nm1240448/Vax'ildan Vessar","Liam O'Brien","Vax'ildan",652000,644000,892000,1,12,"Vax'ildan Vessar",652,10.8666666666667,240000,240,4
+9,"/name/nm0217221/Deliliah Briarwood","Grey DeLisle","Deliliah Briarwood",894000,892000,983000,1,12,"Deliliah Briarwood",894,14.9,89000,89,1.48333333333333
+9,"/name/nm0726184/Scanlan Shorthalt","Sam Riegel","Scanlan",896000,892000,983000,1,12,"Scanlan Shorthalt",896,14.9333333333333,87000,87,1.45
+9,"/name/nm0992184/Grog Strongjaw","Travis Willingham","Grog",896000,892000,983000,1,12,"Grog Strongjaw",896,14.9333333333333,87000,87,1.45
+9,"/name/nm1154161/Vex'ahlia Vessar","Laura Bailey","Vex'ahlia",896000,892000,983000,1,12,"Vex'ahlia Vessar",896,14.9333333333333,87000,87,1.45
+9,"/name/nm1240448/Vax'ildan Vessar","Liam O'Brien","Vax'ildan",896000,892000,983000,1,12,"Vax'ildan Vessar",896,14.9333333333333,87000,87,1.45
+9,"/name/nm4065482/Keyleth","Marisha Ray","Keyleth",896000,892000,983000,1,12,"Keyleth",896,14.9333333333333,87000,87,1.45
+9,"/name/nm0043552/Percival de Rolo","Taliesin Jaffe","Percival",899000,892000,983000,1,12,"Percival de Rolo",899,14.9833333333333,84000,84,1.4
+9,"/name/nm2962727/Cassandra","Esmé Creed-Miles","Cassandra de Rolo",900000,892000,983000,1,12,"Cassandra",900,15,83000,83,1.38333333333333
+10,"/name/nm0043552/Percival de Rolo","Taliesin Jaffe","Percival",994000,983000,1282000,1,12,"Percival de Rolo",994,16.5666666666667,288000,288,4.8
+10,"/name/nm0992184/Grog Strongjaw","Travis Willingham","Grog",994000,983000,1282000,1,12,"Grog Strongjaw",994,16.5666666666667,288000,288,4.8
+10,"/name/nm1154161/Vex'ahlia Vessar","Laura Bailey","Vex'ahlia",994000,983000,1282000,1,12,"Vex'ahlia Vessar",994,16.5666666666667,288000,288,4.8
+10,"/name/nm4065482/Keyleth","Marisha Ray","Keyleth",994000,983000,1282000,1,12,"Keyleth",994,16.5666666666667,288000,288,4.8
+10,"/name/nm2962727/Cassandra","Esmé Creed-Miles","Cassandra de Rolo",996000,983000,1282000,1,12,"Cassandra",996,16.6,286000,286,4.76666666666667
+10,"/name/nm0726184/Scanlan Shorthalt","Sam Riegel","Scanlan",999000,983000,1282000,1,12,"Scanlan Shorthalt",999,16.65,283000,283,4.71666666666667
+10,"/name/nm1240448/Vax'ildan Vessar","Liam O'Brien","Vax'ildan",1085000,983000,1282000,1,12,"Vax'ildan Vessar",1085,18.0833333333333,197000,197,3.28333333333333
+10,"/name/nm0868659/Keeper Yennen","Gina Torres","Keeper Yennen",1128000,983000,1282000,1,12,"Keeper Yennen",1128,18.8,154000,154,2.56666666666667
+11,"/name/nm0043552/Percival de Rolo","Taliesin Jaffe","Percival",1285000,1282000,1372000,1,12,"Percival de Rolo",1285,21.4166666666667,87000,87,1.45
+11,"/name/nm1154161/Vex'ahlia Vessar","Laura Bailey","Vex'ahlia",1296000,1282000,1372000,1,12,"Vex'ahlia Vessar",1296,21.6,76000,76,1.26666666666667
+11,"/name/nm1240448/Vax'ildan Vessar","Liam O'Brien","Vax'ildan",1296000,1282000,1372000,1,12,"Vax'ildan Vessar",1296,21.6,76000,76,1.26666666666667
+11,"/name/nm4065482/Keyleth","Marisha Ray","Keyleth",1296000,1282000,1372000,1,12,"Keyleth",1296,21.6,76000,76,1.26666666666667
+11,"/name/nm0992184/Grog Strongjaw","Travis Willingham","Grog",1304000,1282000,1372000,1,12,"Grog Strongjaw",1304,21.7333333333333,68000,68,1.13333333333333
+11,"/name/nm0424534/Pike Trickfoot","Ashley Johnson","Pike",1308000,1282000,1372000,1,12,"Pike Trickfoot",1308,21.8,64000,64,1.06666666666667
+11,"/name/nm0726184/Scanlan Shorthalt","Sam Riegel","Scanlan",1322000,1282000,1372000,1,12,"Scanlan Shorthalt",1322,22.0333333333333,50000,50,0.833333333333333
+11,"/name/nm0126021/Jarrett","Eugene Byrd","Jarrett",1356000,1282000,1372000,1,12,"Jarrett",1356,22.6,16000,16,0.266666666666667
+12,"/name/nm0539503/Gilmore","Sunil Malhotra","Gilmore",1381000,1372000,1519000,1,12,"Gilmore",1381,23.0166666666667,138000,138,2.3
+12,"/name/nm1154161/Vex'ahlia Vessar","Laura Bailey","Vex'ahlia",1381000,1372000,1519000,1,12,"Vex'ahlia Vessar",1381,23.0166666666667,138000,138,2.3
+12,"/name/nm1240448/Vax'ildan Vessar","Liam O'Brien","Vax'ildan",1381000,1372000,1519000,1,12,"Vax'ildan Vessar",1381,23.0166666666667,138000,138,2.3
+12,"/name/nm0424534/Pike Trickfoot","Ashley Johnson","Pike",1382000,1372000,1519000,1,12,"Pike Trickfoot",1382,23.0333333333333,137000,137,2.28333333333333
+12,"/name/nm0992184/Grog Strongjaw","Travis Willingham","Grog",1382000,1372000,1519000,1,12,"Grog Strongjaw",1382,23.0333333333333,137000,137,2.28333333333333
+12,"/name/nm0726184/Scanlan Shorthalt","Sam Riegel","Scanlan",1391000,1372000,1519000,1,12,"Scanlan Shorthalt",1391,23.1833333333333,128000,128,2.13333333333333
+12,"/name/nm4065482/Keyleth","Marisha Ray","Keyleth",1391000,1372000,1519000,1,12,"Keyleth",1391,23.1833333333333,128000,128,2.13333333333333
+12,"/name/nm1146051/Sovereign Uriel","Khary Payton","Sovereign Uriel",1406000,1372000,1519000,1,12,"Sovereign Uriel",1406,23.4333333333333,113000,113,1.88333333333333
+12,"/name/nm0043552/Percival de Rolo","Taliesin Jaffe","Percival",1434000,1372000,1519000,1,12,"Percival de Rolo",1434,23.9,85000,85,1.41666666666667

@@ -1,0 +1,69 @@
+"partition_id","item_id","actor_name","character_name","time_position_ms","segment_start_ms","segment_end_ms","season","episode","character_name_original","time_position_sec","time_position_min","segment_duration_ms","segment_duration_sec","segment_duration_min"
+2,"/name/nm0217221/Deliliah Briarwood","Grey DeLisle","Deliliah Briarwood",10000,4000,44000,1,3,"Deliliah Briarwood",10,0.166666666666667,34000,34,0.566666666666667
+2,"/name/nm2233310/Sylas Briarwood","Matthew Mercer","Sylas Briarwood",10000,4000,44000,1,3,"Sylas Briarwood",10,0.166666666666667,34000,34,0.566666666666667
+2,"/name/nm1240448/Vax'ildan Vessar","Liam O'Brien","Vax'ildan",27000,4000,44000,1,3,"Vax'ildan Vessar",27,0.45,17000,17,0.283333333333333
+2,"/name/nm2962727/Cassandra","Esmé Creed-Miles","Cassandra de Rolo",27000,4000,44000,1,3,"Cassandra",27,0.45,17000,17,0.283333333333333
+3,"/name/nm0992184/Grog Strongjaw","Travis Willingham","Grog",45000,44000,125000,1,3,"Grog Strongjaw",45,0.75,80000,80,1.33333333333333
+3,"/name/nm0043552/Percival de Rolo","Taliesin Jaffe","Percival",46000,44000,125000,1,3,"Percival de Rolo",46,0.766666666666667,79000,79,1.31666666666667
+3,"/name/nm1154161/Vex'ahlia Vessar","Laura Bailey","Vex'ahlia",46000,44000,125000,1,3,"Vex'ahlia Vessar",46,0.766666666666667,79000,79,1.31666666666667
+3,"/name/nm0726184/Scanlan Shorthalt","Sam Riegel","Scanlan",47000,44000,125000,1,3,"Scanlan Shorthalt",47,0.783333333333333,78000,78,1.3
+3,"/name/nm0424534/Pike Trickfoot","Ashley Johnson","Pike",51000,44000,125000,1,3,"Pike Trickfoot",51,0.85,74000,74,1.23333333333333
+3,"/name/nm4065482/Keyleth","Marisha Ray","Keyleth",61000,44000,125000,1,3,"Keyleth",61,1.01666666666667,64000,64,1.06666666666667
+3,"/name/nm0005026/Anna Ripley","Kelly Hu","Anna Ripley",76000,44000,125000,1,3,"Anna Ripley",76,1.26666666666667,49000,49,0.816666666666667
+3,"/name/nm0217221/Deliliah Briarwood","Grey DeLisle","Deliliah Briarwood",110000,44000,125000,1,3,"Deliliah Briarwood",110,1.83333333333333,15000,15,0.25
+3,"/name/nm2233310/Sylas Briarwood","Matthew Mercer","Sylas Briarwood",110000,44000,125000,1,3,"Sylas Briarwood",110,1.83333333333333,15000,15,0.25
+5,"/name/nm1240448/Vax'ildan Vessar","Liam O'Brien","Vax'ildan",196000,193000,285000,1,3,"Vax'ildan Vessar",196,3.26666666666667,89000,89,1.48333333333333
+5,"/name/nm0005026/Anna Ripley","Kelly Hu","Anna Ripley",198000,193000,285000,1,3,"Anna Ripley",198,3.3,87000,87,1.45
+5,"/name/nm0043552/Percival de Rolo","Taliesin Jaffe","Percival",198000,193000,285000,1,3,"Percival de Rolo",198,3.3,87000,87,1.45
+5,"/name/nm0424534/Pike Trickfoot","Ashley Johnson","Pike",198000,193000,285000,1,3,"Pike Trickfoot",198,3.3,87000,87,1.45
+5,"/name/nm0726184/Scanlan Shorthalt","Sam Riegel","Scanlan",198000,193000,285000,1,3,"Scanlan Shorthalt",198,3.3,87000,87,1.45
+5,"/name/nm0992184/Grog Strongjaw","Travis Willingham","Grog",198000,193000,285000,1,3,"Grog Strongjaw",198,3.3,87000,87,1.45
+5,"/name/nm1154161/Vex'ahlia Vessar","Laura Bailey","Vex'ahlia",198000,193000,285000,1,3,"Vex'ahlia Vessar",198,3.3,87000,87,1.45
+5,"/name/nm4065482/Keyleth","Marisha Ray","Keyleth",198000,193000,285000,1,3,"Keyleth",198,3.3,87000,87,1.45
+6,"/name/nm0217221/Deliliah Briarwood","Grey DeLisle","Deliliah Briarwood",286000,285000,435000,1,3,"Deliliah Briarwood",286,4.76666666666667,149000,149,2.48333333333333
+6,"/name/nm2233310/Sylas Briarwood","Matthew Mercer","Sylas Briarwood",286000,285000,435000,1,3,"Sylas Briarwood",286,4.76666666666667,149000,149,2.48333333333333
+6,"/name/nm1240448/Vax'ildan Vessar","Liam O'Brien","Vax'ildan",291000,285000,435000,1,3,"Vax'ildan Vessar",291,4.85,144000,144,2.4
+6,"/name/nm2962727/Cassandra","Esmé Creed-Miles","Cassandra de Rolo",291000,285000,435000,1,3,"Cassandra",291,4.85,144000,144,2.4
+6,"/name/nm0043552/Percival de Rolo","Taliesin Jaffe","Percival",298000,285000,435000,1,3,"Percival de Rolo",298,4.96666666666667,137000,137,2.28333333333333
+6,"/name/nm0424534/Pike Trickfoot","Ashley Johnson","Pike",305000,285000,435000,1,3,"Pike Trickfoot",305,5.08333333333333,130000,130,2.16666666666667
+6,"/name/nm0726184/Scanlan Shorthalt","Sam Riegel","Scanlan",305000,285000,435000,1,3,"Scanlan Shorthalt",305,5.08333333333333,130000,130,2.16666666666667
+6,"/name/nm0992184/Grog Strongjaw","Travis Willingham","Grog",305000,285000,435000,1,3,"Grog Strongjaw",305,5.08333333333333,130000,130,2.16666666666667
+6,"/name/nm1154161/Vex'ahlia Vessar","Laura Bailey","Vex'ahlia",305000,285000,435000,1,3,"Vex'ahlia Vessar",305,5.08333333333333,130000,130,2.16666666666667
+6,"/name/nm4065482/Keyleth","Marisha Ray","Keyleth",312000,285000,435000,1,3,"Keyleth",312,5.2,123000,123,2.05
+7,"/name/nm0217221/Deliliah Briarwood","Grey DeLisle","Deliliah Briarwood",435000,435000,663000,1,3,"Deliliah Briarwood",435,7.25,228000,228,3.8
+7,"/name/nm1154161/Vex'ahlia Vessar","Laura Bailey","Vex'ahlia",438000,435000,663000,1,3,"Vex'ahlia Vessar",438,7.3,225000,225,3.75
+7,"/name/nm1240448/Vax'ildan Vessar","Liam O'Brien","Vax'ildan",439000,435000,663000,1,3,"Vax'ildan Vessar",439,7.31666666666667,224000,224,3.73333333333333
+7,"/name/nm0043552/Percival de Rolo","Taliesin Jaffe","Percival",468000,435000,663000,1,3,"Percival de Rolo",468,7.8,195000,195,3.25
+7,"/name/nm2962727/Cassandra","Esmé Creed-Miles","Cassandra de Rolo",470000,435000,663000,1,3,"Cassandra",470,7.83333333333333,193000,193,3.21666666666667
+7,"/name/nm0726184/Scanlan Shorthalt","Sam Riegel","Scanlan",519000,435000,663000,1,3,"Scanlan Shorthalt",519,8.65,144000,144,2.4
+7,"/name/nm0424534/Pike Trickfoot","Ashley Johnson","Pike",527000,435000,663000,1,3,"Pike Trickfoot",527,8.78333333333333,136000,136,2.26666666666667
+7,"/name/nm2233310/Sylas Briarwood","Matthew Mercer","Sylas Briarwood",528000,435000,663000,1,3,"Sylas Briarwood",528,8.8,135000,135,2.25
+8,"/name/nm4065482/Keyleth","Marisha Ray","Keyleth",663000,663000,815000,1,3,"Keyleth",663,11.05,152000,152,2.53333333333333
+8,"/name/nm0043552/Percival de Rolo","Taliesin Jaffe","Percival",670000,663000,815000,1,3,"Percival de Rolo",670,11.1666666666667,145000,145,2.41666666666667
+8,"/name/nm2233310/Sylas Briarwood","Matthew Mercer","Sylas Briarwood",670000,663000,815000,1,3,"Sylas Briarwood",670,11.1666666666667,145000,145,2.41666666666667
+8,"/name/nm2962727/Cassandra","Esmé Creed-Miles","Cassandra de Rolo",670000,663000,815000,1,3,"Cassandra",670,11.1666666666667,145000,145,2.41666666666667
+8,"/name/nm0217221/Deliliah Briarwood","Grey DeLisle","Deliliah Briarwood",672000,663000,815000,1,3,"Deliliah Briarwood",672,11.2,143000,143,2.38333333333333
+8,"/name/nm0424534/Pike Trickfoot","Ashley Johnson","Pike",672000,663000,815000,1,3,"Pike Trickfoot",672,11.2,143000,143,2.38333333333333
+8,"/name/nm0992184/Grog Strongjaw","Travis Willingham","Grog",676000,663000,815000,1,3,"Grog Strongjaw",676,11.2666666666667,139000,139,2.31666666666667
+8,"/name/nm1154161/Vex'ahlia Vessar","Laura Bailey","Vex'ahlia",678000,663000,815000,1,3,"Vex'ahlia Vessar",678,11.3,137000,137,2.28333333333333
+8,"/name/nm1240448/Vax'ildan Vessar","Liam O'Brien","Vax'ildan",683000,663000,815000,1,3,"Vax'ildan Vessar",683,11.3833333333333,132000,132,2.2
+8,"/name/nm0726184/Scanlan Shorthalt","Sam Riegel","Scanlan",791000,663000,815000,1,3,"Scanlan Shorthalt",791,13.1833333333333,24000,24,0.4
+9,"/name/nm2233310/Sylas Briarwood","Matthew Mercer","Sylas Briarwood",815000,815000,1019000,1,3,"Sylas Briarwood",815,13.5833333333333,204000,204,3.4
+9,"/name/nm4065482/Keyleth","Marisha Ray","Keyleth",820000,815000,1019000,1,3,"Keyleth",820,13.6666666666667,199000,199,3.31666666666667
+9,"/name/nm0992184/Grog Strongjaw","Travis Willingham","Grog",832000,815000,1019000,1,3,"Grog Strongjaw",832,13.8666666666667,187000,187,3.11666666666667
+9,"/name/nm1154161/Vex'ahlia Vessar","Laura Bailey","Vex'ahlia",912000,815000,1019000,1,3,"Vex'ahlia Vessar",912,15.2,107000,107,1.78333333333333
+9,"/name/nm1240448/Vax'ildan Vessar","Liam O'Brien","Vax'ildan",912000,815000,1019000,1,3,"Vax'ildan Vessar",912,15.2,107000,107,1.78333333333333
+9,"/name/nm0424534/Pike Trickfoot","Ashley Johnson","Pike",913000,815000,1019000,1,3,"Pike Trickfoot",913,15.2166666666667,106000,106,1.76666666666667
+9,"/name/nm0726184/Scanlan Shorthalt","Sam Riegel","Scanlan",913000,815000,1019000,1,3,"Scanlan Shorthalt",913,15.2166666666667,106000,106,1.76666666666667
+9,"/name/nm0043552/Percival de Rolo","Taliesin Jaffe","Percival",916000,815000,1019000,1,3,"Percival de Rolo",916,15.2666666666667,103000,103,1.71666666666667
+9,"/name/nm2962727/Cassandra","Esmé Creed-Miles","Cassandra de Rolo",916000,815000,1019000,1,3,"Cassandra",916,15.2666666666667,103000,103,1.71666666666667
+9,"/name/nm0217221/Deliliah Briarwood","Grey DeLisle","Deliliah Briarwood",930000,815000,1019000,1,3,"Deliliah Briarwood",930,15.5,89000,89,1.48333333333333
+10,"/name/nm0217221/Deliliah Briarwood","Grey DeLisle","Deliliah Briarwood",1019000,1019000,1316000,1,3,"Deliliah Briarwood",1019,16.9833333333333,297000,297,4.95
+10,"/name/nm0043552/Percival de Rolo","Taliesin Jaffe","Percival",1054000,1019000,1316000,1,3,"Percival de Rolo",1054,17.5666666666667,262000,262,4.36666666666667
+10,"/name/nm0424534/Pike Trickfoot","Ashley Johnson","Pike",1054000,1019000,1316000,1,3,"Pike Trickfoot",1054,17.5666666666667,262000,262,4.36666666666667
+10,"/name/nm0726184/Scanlan Shorthalt","Sam Riegel","Scanlan",1054000,1019000,1316000,1,3,"Scanlan Shorthalt",1054,17.5666666666667,262000,262,4.36666666666667
+10,"/name/nm0992184/Grog Strongjaw","Travis Willingham","Grog",1054000,1019000,1316000,1,3,"Grog Strongjaw",1054,17.5666666666667,262000,262,4.36666666666667
+10,"/name/nm1154161/Vex'ahlia Vessar","Laura Bailey","Vex'ahlia",1054000,1019000,1316000,1,3,"Vex'ahlia Vessar",1054,17.5666666666667,262000,262,4.36666666666667
+10,"/name/nm1240448/Vax'ildan Vessar","Liam O'Brien","Vax'ildan",1054000,1019000,1316000,1,3,"Vax'ildan Vessar",1054,17.5666666666667,262000,262,4.36666666666667
+10,"/name/nm4065482/Keyleth","Marisha Ray","Keyleth",1054000,1019000,1316000,1,3,"Keyleth",1054,17.5666666666667,262000,262,4.36666666666667
+10,"/name/nm2962727/Cassandra","Esmé Creed-Miles","Cassandra de Rolo",1244000,1019000,1316000,1,3,"Cassandra",1244,20.7333333333333,72000,72,1.2

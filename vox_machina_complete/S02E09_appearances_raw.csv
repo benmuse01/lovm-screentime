@@ -1,0 +1,41 @@
+"partition_id","item_id","actor_name","character_name","time_position_ms","segment_start_ms","segment_end_ms","season","episode","character_name_original","time_position_sec","time_position_min","segment_duration_ms","segment_duration_sec","segment_duration_min"
+4,"/name/nm0424534/Pike","Ashley Johnson","Pike",168000,163000,407000,2,9,"Pike",168,2.8,239000,239,3.98333333333333
+4,"/name/nm0726184/Scanlan","Sam Riegel","Scanlan",170000,163000,407000,2,9,"Scanlan",170,2.83333333333333,237000,237,3.95
+4,"/name/nm0992184/Grog","Travis Willingham","Grog",170000,163000,407000,2,9,"Grog",170,2.83333333333333,237000,237,3.95
+5,"/name/nm0992184/Grog","Travis Willingham","Grog",408000,407000,573000,2,9,"Grog",408,6.8,165000,165,2.75
+5,"/name/nm0001857/Wilhand Trickfoot","Henry Winkler","Wilhand Trickfoot",433000,407000,573000,2,9,"Wilhand Trickfoot",433,7.21666666666667,140000,140,2.33333333333333
+5,"/name/nm0424534/Pike","Ashley Johnson","Pike",456000,407000,573000,2,9,"Pike",456,7.6,117000,117,1.95
+5,"/name/nm5349813/Zanror","Abubakar Salim","Zanror",486000,407000,573000,2,9,"Zanror",486,8.1,87000,87,1.45
+5,"/name/nm0726184/Scanlan","Sam Riegel","Scanlan",508000,407000,573000,2,9,"Scanlan",508,8.46666666666667,65000,65,1.08333333333333
+5,"/name/nm4957233/Kaylie","Aisling Franciosi","Kaylie",524000,407000,573000,2,9,"Kaylie",524,8.73333333333333,49000,49,0.816666666666667
+6,"/name/nm0424534/Pike","Ashley Johnson","Pike",578000,573000,750000,2,9,"Pike",578,9.63333333333333,172000,172,2.86666666666667
+6,"/name/nm0992184/Grog","Travis Willingham","Grog",578000,573000,750000,2,9,"Grog",578,9.63333333333333,172000,172,2.86666666666667
+6,"/name/nm0001857/Wilhand Trickfoot","Henry Winkler","Wilhand Trickfoot",590000,573000,750000,2,9,"Wilhand Trickfoot",590,9.83333333333333,160000,160,2.66666666666667
+6,"/name/nm5349813/Zanror","Abubakar Salim","Zanror",594000,573000,750000,2,9,"Zanror",594,9.9,156000,156,2.6
+6,"/name/nm0408591/Kevdak","Ralph Ineson","Kevdak",650000,573000,750000,2,9,"Kevdak",650,10.8333333333333,100000,100,1.66666666666667
+7,"/name/nm0992184/Grog","Travis Willingham","Grog",758000,750000,1005000,2,9,"Grog",758,12.6333333333333,247000,247,4.11666666666667
+7,"/name/nm0001857/Wilhand Trickfoot","Henry Winkler","Wilhand Trickfoot",764000,750000,1005000,2,9,"Wilhand Trickfoot",764,12.7333333333333,241000,241,4.01666666666667
+7,"/name/nm0424534/Pike","Ashley Johnson","Pike",811000,750000,1005000,2,9,"Pike",811,13.5166666666667,194000,194,3.23333333333333
+7,"/name/nm2233310/Umbrasyl","Matthew Mercer","Umbrasyl",849000,750000,1005000,2,9,"Umbrasyl",849,14.15,156000,156,2.6
+7,"/name/nm0726184/Scanlan","Sam Riegel","Scanlan",857000,750000,1005000,2,9,"Scanlan",857,14.2833333333333,148000,148,2.46666666666667
+7,"/name/nm4957233/Kaylie","Aisling Franciosi","Kaylie",857000,750000,1005000,2,9,"Kaylie",857,14.2833333333333,148000,148,2.46666666666667
+7,"/name/nm2233310/Dr. Dranzel","Matthew Mercer","Dr. Dranzel",864000,750000,1005000,2,9,"Dr. Dranzel",864,14.4,141000,141,2.35
+7,"/name/nm0005026/Ripley","Kelly Hu","Anna Ripley",965000,750000,1005000,2,9,"Ripley",965,16.0833333333333,40000,40,0.666666666666667
+7,"/name/nm0408591/Kevdak","Ralph Ineson","Kevdak",976000,750000,1005000,2,9,"Kevdak",976,16.2666666666667,29000,29,0.483333333333333
+8,"/name/nm2233310/Umbrasyl","Matthew Mercer","Umbrasyl",1007000,1005000,1229000,2,9,"Umbrasyl",1007,16.7833333333333,222000,222,3.7
+8,"/name/nm0408591/Kevdak","Ralph Ineson","Kevdak",1014000,1005000,1229000,2,9,"Kevdak",1014,16.9,215000,215,3.58333333333333
+8,"/name/nm0005026/Ripley","Kelly Hu","Anna Ripley",1020000,1005000,1229000,2,9,"Ripley",1020,17,209000,209,3.48333333333333
+8,"/name/nm5349813/Zanror","Abubakar Salim","Zanror",1035000,1005000,1229000,2,9,"Zanror",1035,17.25,194000,194,3.23333333333333
+8,"/name/nm0726184/Scanlan","Sam Riegel","Scanlan",1085000,1005000,1229000,2,9,"Scanlan",1085,18.0833333333333,144000,144,2.4
+8,"/name/nm4957233/Kaylie","Aisling Franciosi","Kaylie",1108000,1005000,1229000,2,9,"Kaylie",1108,18.4666666666667,121000,121,2.01666666666667
+8,"/name/nm0424534/Pike","Ashley Johnson","Pike",1114000,1005000,1229000,2,9,"Pike",1114,18.5666666666667,115000,115,1.91666666666667
+8,"/name/nm0992184/Grog","Travis Willingham","Grog",1114000,1005000,1229000,2,9,"Grog",1114,18.5666666666667,115000,115,1.91666666666667
+8,"/name/nm2233310/Dr. Dranzel","Matthew Mercer","Dr. Dranzel",1220000,1005000,1229000,2,9,"Dr. Dranzel",1220,20.3333333333333,9000,9,0.15
+9,"/name/nm0726184/Scanlan","Sam Riegel","Scanlan",1230000,1229000,1507000,2,9,"Scanlan",1230,20.5,277000,277,4.61666666666667
+9,"/name/nm4957233/Kaylie","Aisling Franciosi","Kaylie",1231000,1229000,1507000,2,9,"Kaylie",1231,20.5166666666667,276000,276,4.6
+9,"/name/nm2233310/Dr. Dranzel","Matthew Mercer","Dr. Dranzel",1234000,1229000,1507000,2,9,"Dr. Dranzel",1234,20.5666666666667,273000,273,4.55
+9,"/name/nm0992184/Grog","Travis Willingham","Grog",1273000,1229000,1507000,2,9,"Grog",1273,21.2166666666667,234000,234,3.9
+9,"/name/nm0424534/Pike","Ashley Johnson","Pike",1289000,1229000,1507000,2,9,"Pike",1289,21.4833333333333,218000,218,3.63333333333333
+9,"/name/nm0001857/Wilhand Trickfoot","Henry Winkler","Wilhand Trickfoot",1341000,1229000,1507000,2,9,"Wilhand Trickfoot",1341,22.35,166000,166,2.76666666666667
+9,"/name/nm0408591/Kevdak","Ralph Ineson","Kevdak",1437000,1229000,1507000,2,9,"Kevdak",1437,23.95,70000,70,1.16666666666667
+9,"/name/nm5349813/Zanror","Abubakar Salim","Zanror",1444000,1229000,1507000,2,9,"Zanror",1444,24.0666666666667,63000,63,1.05
