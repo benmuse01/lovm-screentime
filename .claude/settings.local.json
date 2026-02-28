@@ -1,7 +1,8 @@
 {
   "permissions": {
     "allow": [
-      "Bash(dir \"C:\\\\Users\\\\benmu\\\\OneDrive\\\\Documents\\\\ALL DATA Work\\\\LOVM Project\\\\LOVM R Project\\\\www\" /B)"
+      "Bash(dir \"C:\\\\Users\\\\benmu\\\\OneDrive\\\\Documents\\\\ALL DATA Work\\\\LOVM Project\\\\LOVM R Project\\\\www\" /B)",
+      "WebFetch(domain:www.curiousgnu.com)"
     ]
   }
 }

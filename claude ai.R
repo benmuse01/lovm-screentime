@@ -1,5 +1,0 @@
-library(ellmer)
-library(curl)
-library(httr2)
-chat <- chat_anthropic(model = "claude-sonnet-4-6")
-chat$chat("I have the file LOVM Visualizations.R that I would like to edit some of the visualizations so that they are much more clear. My goals are that the main cast and villians should be on the same page so I can show disparity within the screen time. I also would like all timeline graphs to be less dramatic and easier to read.")

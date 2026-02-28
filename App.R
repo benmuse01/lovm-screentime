@@ -229,7 +229,8 @@ ui <- dashboardPage(
       menuItem("Story Timeline", tabName = "timeline", icon = icon("clock")),
       menuItem("Episode Analysis", tabName = "episodes", icon = icon("film")),
       menuItem("Character Comparison", tabName = "comparison", icon = icon("balance-scale")),
-      menuItem("Data Table", tabName = "data", icon = icon("table"))
+      menuItem("Data Table", tabName = "data", icon = icon("table")),
+      menuItem("Methodology", tabName = "methodology", icon = icon("info-circle"))
     ),
     
     hr(),
@@ -563,6 +564,112 @@ ui <- dashboardPage(
                   solidHeader = TRUE,
                   width = 12,
                   DTOutput("data_table")
+                )
+              )
+      ),
+
+      # ===== METHODOLOGY TAB =====
+      tabItem(tabName = "methodology",
+              fluidRow(
+                box(
+                  title = "Data Collection Methodology",
+                  status = "primary",
+                  solidHeader = TRUE,
+                  width = 12,
+
+                  h3("How the Data Was Collected"),
+
+                  p("The screen time data for this project was collected by scraping ",
+                    strong("Amazon Prime Video's X-Ray feature"), ", which is powered by ",
+                    strong("IMDb's database"), ". X-Ray displays real-time character
+                    information during playback, and is backed by an
+                    unencrypted JSON file that Amazon transmits during page load. By
+                    intercepting this network request with Chrome's Developer Tools,
+                    the full scenelevel character data (including precise start and
+                    end timestamps) can be captured for each episode without any
+                    manual logging."),
+
+                  hr(),
+
+                  h4("Collection Process"),
+
+                  tags$ol(
+                    tags$li(
+                      strong("Navigate to the episode page:"), " Each episode of Legends of
+                      Vox Machina was opened on Amazon Prime Video in Chrome."
+                    ),
+                    tags$li(
+                      strong("Open Chrome Developer Tools:"), " Before or during page load,
+                      Chrome's Developer Tools were opened (F12) and the ",
+                      em("Network"), " tab was activated to record all outgoing and
+                      incoming requests."
+                    ),
+                    tags$li(
+                      strong("Intercept the X-Ray JSON request:"), " Amazon's X-Ray feature
+                      is backed by an unencrypted JSON file transmitted during page load.
+                      This request is identifiable by the ", code("_xray?firmware"), "
+                      and the pattern in its URL was located in the Network tab and the full
+                      response was saved as a JSON file."
+                    ),
+                    tags$li(
+                      strong("Parse the JSON:"), " The JSON is structured hierarchically,
+                      with scenes nested inside page sections and widgets. Each scene
+                      entry contains character names, IMDb identifiers, and start/end
+                      timestamps marking when each character appears on screen."
+                    ),
+                    tags$li(
+                      strong("Convert to tabular data:"), " The parsed scene data was
+                      extracted into CSV format, producing one row per character
+                      appearance with start time, end time, character name, and episode
+                      metadata."
+                    ),
+                    tags$li(
+                      strong("Aggregate in R:"), " The per-appearance CSV files were
+                      combined across all 36 episodes and summarised in R to calculate
+                      total and average screen time per character per episode and per
+                      season, producing the data files that power this dashboard."
+                    )
+                  ),
+
+                  hr(),
+
+                  h4("Important Caveats"),
+
+                  tags$ul(
+                    tags$li("Screen time figures represent ", em("on-screen presence"),
+                            " as detected by X-Ray, not speaking time or narrative importance."),
+                    tags$li("Some character times may be ", strong("slightly inflated"),
+                            " if a character appears only briefly at the edge of a scene
+                            but is still registered by X-Ray for the full scene interval."),
+                    tags$li("X-Ray data reflects IMDb's tagging of the episode and may
+                            occasionally miss minor background appearances or misattribute
+                            very short cameos.")
+                  ),
+
+                  hr(),
+
+                  h4("Coverage"),
+
+                  tags$ul(
+                    tags$li(strong("Season 1:"), " Episodes 1–12"),
+                    tags$li(strong("Season 2:"), " Episodes 1–12"),
+                    tags$li(strong("Season 3:"), " Episodes 1–12"),
+                    tags$li("Total: 36 episodes across the full run of ",
+                            em("Legends of Vox Machina"))
+                  ),
+
+                  hr(),
+
+                  h4("Acknowledgements & Further Reading"),
+
+                  p("The data collection approach used in this project was inspired by the
+                    excellent tutorial written by Alex at ",
+                    tags$a(href = "https://www.curiousgnu.com/movie-character-screen-time",
+                           target = "_blank",
+                           "curiousgnu.com"),
+                    ". That tutorial provides a detailed, step-by-step walkthrough of how to
+                    scrape Amazon X-Ray data to measure character screen time. I highly
+                    recommended reading if you want to replicate or extend this analysis.")
                 )
               )
       )
